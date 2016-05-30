@@ -17,6 +17,9 @@
                 <li>
                     <a href="index.php?page=contact">Contact</a>
                 </li>
+                <li>
+                    <a href="index.php?page=contact">New</a>
+                </li>
             </ul>
         </nav>
         </div>
